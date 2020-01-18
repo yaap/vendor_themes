@@ -6,4 +6,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FontInterOverlay \
     FontLinotteSourceOverlay \
-    FontManropeOverlay
+    FontManropeOverlay \
+    FontOneplusSlateSource

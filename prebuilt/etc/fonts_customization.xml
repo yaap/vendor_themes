@@ -66,4 +66,10 @@
   </family>
   <alias name="linotte-semi-bold" to="linotte" weight="600" />
   <alias name="linotte-bold" to="linotte" weight="700" />
+
+  <family name="oneplusslate">
+    <font weight="300" style="normal">SlateFromOP-Light.ttf</font>
+    <font weight="400" style="normal">SlateFromOP-Regular.ttf</font>
+  </family>
+  <alias name="oneplusslate-bold" to="oneplusslate" weight="600" />
 </fonts-modification>
