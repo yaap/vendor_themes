@@ -7,4 +7,5 @@ PRODUCT_PACKAGES += \
     FontInterOverlay \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
+    FontOnePlusSansOverlay \
     FontOneplusSlateSource
