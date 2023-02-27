@@ -5,12 +5,13 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
+    FontHarmonySansOverlay \
     FontInterOverlay \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
-    FontHarmonySansOverlay
+    FontUrbanistOverlay
 
 PRODUCT_PACKAGES += \
     ArbutusSlab-Regular.ttf \
