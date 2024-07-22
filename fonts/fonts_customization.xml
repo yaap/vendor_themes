@@ -153,6 +153,21 @@
   </family>
   <alias name="lato-bold" to="lato" weight="700" />
 
+  <family customizationType="new-named-family" name="roboto">
+    <font weight="100" style="normal">Roboto-Thin.ttf</font>
+    <font weight="100" style="italic">Roboto-ThinItalic.ttf</font>
+    <font weight="300" style="normal">Roboto-Light.ttf</font>
+    <font weight="300" style="italic">Roboto-LightItalic.ttf</font>
+    <font weight="400" style="normal">Roboto-Regular.ttf</font>
+    <font weight="400" style="italic">Roboto-Italic.ttf</font>
+    <font weight="500" style="normal">Roboto-Medium.ttf</font>
+    <font weight="500" style="italic">Roboto-MediumItalic.ttf</font>
+    <font weight="900" style="normal">Roboto-Black.ttf</font>
+    <font weight="900" style="italic">Roboto-BlackItalic.ttf</font>
+    <font weight="700" style="normal">Roboto-Bold.ttf</font>
+    <font weight="700" style="italic">Roboto-BoldItalic.ttf</font>
+  </family>
+
   <family customizationType="new-named-family" name="rubik">
     <font weight="400" style="normal">Rubik-Regular.ttf</font>
     <font weight="400" style="italic">Rubik-Italic.ttf</font>

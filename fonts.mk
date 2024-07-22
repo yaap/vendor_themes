@@ -11,6 +11,7 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
+    FontRobotoOverlay \
     FontUrbanistOverlay
 
 PRODUCT_PACKAGES += \
@@ -33,6 +34,18 @@ PRODUCT_PACKAGES += \
     Lato-Bold.ttf \
     Lato-BoldItalic.ttf \
     Lustria-Regular.ttf \
+    Roboto-Black.ttf \
+    Roboto-BlackItalic.ttf \
+    Roboto-Bold.ttf \
+    Roboto-BoldItalic.ttf \
+    Roboto-Italic.ttf \
+    Roboto-Light.ttf \
+    Roboto-LightItalic.ttf \
+    Roboto-Medium.ttf \
+    Roboto-MediumItalic.ttf \
+    Roboto-Regular.ttf \
+    Roboto-Thin.ttf \
+    Roboto-ThinItalic.ttf \
     Rubik-Regular.ttf \
     Rubik-Italic.ttf \
     Rubik-Medium.ttf \
