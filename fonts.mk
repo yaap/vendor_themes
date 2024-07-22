@@ -11,8 +11,7 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
-    FontRobotoOverlay \
-    FontUrbanistOverlay
+    FontRobotoOverlay
 
 PRODUCT_PACKAGES += \
     ArbutusSlab-Regular.ttf \
