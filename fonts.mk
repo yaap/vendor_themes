@@ -11,7 +11,8 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
-    FontRobotoOverlay
+    FontRobotoOverlay \
+    FontUbuntuOverlay
 
 PRODUCT_PACKAGES += \
     ArbutusSlab-Regular.ttf \
@@ -51,6 +52,16 @@ PRODUCT_PACKAGES += \
     Rubik-MediumItalic.ttf \
     Rubik-Bold.ttf \
     Rubik-BoldItalic.ttf \
+    Ubuntu-Regular.ttf \
+    Ubuntu-Italic.ttf \
+    Ubuntu-Medium.ttf \
+    Ubuntu-MediumItalic.ttf \
+    Ubuntu-Bold.ttf \
+    Ubuntu-BoldItalic.ttf \
+    Ubuntu-Condensed.ttf \
+    Ubuntu-Light.ttf \
+    Ubuntu-LightItalic.ttf \
+    Ubuntu-Thin.ttf \
     ZillaSlab-Medium.ttf \
     ZillaSlab-MediumItalic.ttf \
     ZillaSlab-SemiBold.ttf \

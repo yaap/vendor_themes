@@ -171,6 +171,21 @@
     <font weight="700" style="normal">Roboto-Bold.ttf</font>
     <font weight="700" style="italic">Roboto-BoldItalic.ttf</font>
   </family>
+  
+  <family customizationType="new-named-family" name="ubuntu">
+    <font weight="100" style="normal">Ubuntu-Thin.ttf</font>
+    <font weight="100" style="italic">Ubuntu-ThinItalic.ttf</font>
+    <font weight="300" style="normal">Ubuntu-Light.ttf</font>
+    <font weight="300" style="italic">Ubuntu-LightItalic.ttf</font>
+    <font weight="400" style="normal">Ubuntu-Regular.ttf</font>
+    <font weight="400" style="italic">Ubuntu-Italic.ttf</font>
+    <font weight="500" style="normal">Ubuntu-Medium.ttf</font>
+    <font weight="500" style="italic">Ubuntu-MediumItalic.ttf</font>
+    <font weight="900" style="normal">Ubuntu-Black.ttf</font>
+    <font weight="900" style="italic">Ubuntu-BlackItalic.ttf</font>
+    <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
+    <font weight="700" style="italic">Ubuntu-BoldItalic.ttf</font>
+  </family>
 
   <family customizationType="new-named-family" name="rubik">
     <font weight="400" style="normal">Rubik-Regular.ttf</font>
