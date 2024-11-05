@@ -181,8 +181,6 @@
     <font weight="400" style="italic">Ubuntu-Italic.ttf</font>
     <font weight="500" style="normal">Ubuntu-Medium.ttf</font>
     <font weight="500" style="italic">Ubuntu-MediumItalic.ttf</font>
-    <font weight="900" style="normal">Ubuntu-Black.ttf</font>
-    <font weight="900" style="italic">Ubuntu-BlackItalic.ttf</font>
     <font weight="700" style="normal">Ubuntu-Bold.ttf</font>
     <font weight="700" style="italic">Ubuntu-BoldItalic.ttf</font>
   </family>
