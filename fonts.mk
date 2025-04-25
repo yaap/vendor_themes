@@ -6,6 +6,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
     FontHarmonySansOverlay \
+    FontIBMPlexSansOverlay \
     FontInterOverlay \
     FontLinotteSourceOverlay \
     FontManropeOverlay \
