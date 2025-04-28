@@ -378,4 +378,114 @@
         <font weight="900" style="italic">HarmonyOS-Sans-BlackItalic.ttf</font>
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
+
+    <!-- Accuratist -->
+    <family customizationType="new-named-family" name="accuratist">
+        <font weight="400" style="normal">Accuratist.ttf</font>
+    </family>
+    <alias name="accuratist-light" to="accuratist" weight="300" />
+    <alias name="accuratist-medium" to="accuratist" weight="500" />
+    <alias name="accuratist-semi-bold" to="accuratist" weight="600" />
+    <alias name="accuratist-bold" to="accuratist" weight="700" />
+
+    <!-- Nothing Fonts -->
+    <family customizationType="new-named-family" name="nothingdot">
+        <font weight="400" style="normal" postScriptName="Ndot-55">NDot55Caps.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="nothingdot57">
+        <font weight="400" style="normal" postScriptName="Ndot-57">NDot57Caps.otf</font>
+    </family>
+    <family customizationType="new-named-family" name="nothingdot57aligned">
+        <font weight="400" style="normal" postScriptName="Ndot-57-Aligned">Ndot-57-Aligned.otf</font>
+    </family>
+    <alias name="ndot" to="NDot55" />
+    <alias name="ndot57" to="NDot57" />
+    <alias name="ndot57-align" to="NDot57-Aligned" />
+
+    <!-- Surfer -->
+    <family customizationType="new-named-family" name="surfer">
+        <font weight="300" style="normal">Surfer.ttf</font>
+    </family>
+    <alias name="surfer-semi-bold" to="surfer" weight="600" />
+    <alias name="surfer-bold" to="surfer" weight="700" />
+
+    <!-- Coolstory -->
+    <family customizationType="new-named-family" name="coolstory">
+        <font weight="300" style="normal">Coolstory-Regular.ttf</font>
+    </family>
+    <alias name="coolstory-semi-bold" to="coolstory" weight="600" />
+    <alias name="coolstory-bold" to="coolstory" weight="700" />
+
+    <!-- AlphaClouds -->
+    <family customizationType="new-named-family" name="AlphaClouds">
+        <font weight="300" style="normal">AlphaClouds.ttf</font>
+    </family>
+
+    <!-- AlphaFlowers -->
+    <family customizationType="new-named-family" name="AlphaFlowers">
+        <font weight="300" style="normal">AlphaFlowers.ttf</font>
+    </family>
+
+    <!-- AlphaWood -->
+    <family customizationType="new-named-family" name="AlphaWood">
+        <font weight="300" style="normal">AlphaWood.ttf</font>
+    </family>
+
+    <!-- CRACKMAN -->
+    <family customizationType="new-named-family" name="CRACKMAN">
+        <font weight="300" style="normal">CRACKMAN.ttf</font>
+    </family>
+
+    <!-- Pinewood -->
+    <family customizationType="new-named-family" name="Pinewood">
+        <font weight="300" style="normal">Pinewood.ttf</font>
+    </family>
+
+    <!-- Nothing -->
+    <family customizationType="new-named-family" name="subway">
+        <font weight="300" style="normal">subway.ttf</font>
+    </family>
+    <family customizationType="new-named-family" name="ntype82">
+        <font weight="300" style="normal">ntype82.ttf</font>
+    </family>
+
+    <!-- Floorlight -->
+    <family customizationType="new-named-family" name="Floorlight">
+        <font weight="300" style="normal">Floorlight.ttf</font>
+    </family>
+
+    <!-- NeonDisco -->
+    <family customizationType="new-named-family" name="NeonDisco">
+        <font weight="300" style="normal">NeonDisco.ttf</font>
+    </family>
+
+    <!-- Fibography -->
+    <family customizationType="new-named-family" name="Fibography">
+        <font weight="300" style="normal">Fibography.ttf</font>
+    </family>
+
+    <!-- PlantsLetters -->
+    <family customizationType="new-named-family" name="PlantsLetters">
+        <font weight="300" style="normal">PlantsLetters.ttf</font>
+    </family>
+
+    <!-- HotSweat -->
+    <family customizationType="new-named-family" name="HotSweat">
+        <font weight="300" style="normal">HotSweat.ttf</font>
+    </family>
+
+    <!-- SpaceGame -->
+    <family customizationType="new-named-family" name="SpaceGame">
+        <font weight="300" style="normal">SpaceGame.ttf</font>
+    </family>
+
+    <!-- Roundheads -->
+    <family customizationType="new-named-family" name="Roundheads">
+        <font weight="300" style="normal">Roundheads.ttf</font>
+    </family>
+
+    <!-- IOS -->
+    <family customizationType="new-named-family" name="ios">
+        <font weight="300" style="normal">ios.ttf</font>
+    </family>
 </fonts-modification>
