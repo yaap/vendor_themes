@@ -5,6 +5,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     FontGoogleSansOverlay \
+    FontGoogleSansFlexOverlay \
     FontHarmonySansOverlay \
     FontIBMPlexSansOverlay \
     FontInterOverlay \
