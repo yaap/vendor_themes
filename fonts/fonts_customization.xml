@@ -711,12 +711,10 @@
   <family customizationType="new-named-family" name="lustria">
     <font weight="400" style="normal">Lustria-Regular.ttf</font>
   </family>
-  <alias name="lustria" to="lustria" weight="400"/>
 
   <family customizationType="new-named-family" name="karla">
     <font weight="400" style="normal">Karla-Regular.ttf</font>
   </family>
-  <alias name="karla" to="karla" weight="400"/>
 
   <family customizationType="new-named-family" name="fraunces">
     <font
@@ -730,7 +728,6 @@
       postScriptName="Fraunces144ptS100Black-OpticalSize9Weight640soften100wonk0"
       >Fraunces-SemiBold.ttf</font>
   </family>
-  <alias name="fraunces" to="fraunces" weight="400"/>
   <alias name="fraunces-semi-bold" to="fraunces" weight="600"/>
 
   <family customizationType="new-named-family" name="big-shoulders-text">
